@@ -1,0 +1,58 @@
+.container {
+    font-size: 0;
+
+}
+
+.vermelha {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+    border: 1px solid white;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.vermelho-canto {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#vermelho:hover {
+    background-color: aqua;
+}
+
+.azul {
+    width: 200px;
+    height: 200px;
+    background-color: #00B0F0;
+    display: inline-block;
+    border: 1px solid white;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.verde {
+    width: 200px;
+    height: 200px;
+    background-color: #03A64A;
+    display: inline-block;
+    border: 1px solid white;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.amarela {
+    width: 200px;
+    height: 200px;
+    background-color: #F2E205;
+    display: inline-block;
+    border: 1px solid white;
+    margin: 0%;
+    box-sizing: border-box;
+}
